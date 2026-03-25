@@ -17,8 +17,8 @@ Public legal/support pages for the Goblin Node app.
 
 Use these URLs:
 
-- Privacy Policy URL: `https://YOUR_GITHUB_USERNAME.github.io/goblin-node-legal/privacy`
-- Support URL: `https://YOUR_GITHUB_USERNAME.github.io/goblin-node-legal/support`
+- Privacy Policy URL: `https://rainerweston.github.io/goblin-node-legal/privacy`
+- Support URL: `https://rainerweston.github.io/goblin-node-legal/support`
 
 ## Notes
 
