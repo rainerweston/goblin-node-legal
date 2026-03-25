@@ -24,4 +24,4 @@ Goblin Node respects your privacy.
 - RevenueCat
 
 ## Contact
-For privacy questions, contact: YOUR_EMAIL@example.com
+For privacy questions, contact: rainerweston@gmail.com
