@@ -1,6 +1,4 @@
-# Goblin Node Legal
-
-Public legal/support pages for the Goblin Node app.
+# Public legal/support pages for the Goblin Node app.
 
 ## Live URLs
 
