@@ -1,0 +1,9 @@
+title: Goblin Node Legal
+description: Privacy Policy and Support for Goblin Node
+theme: minima
+url: "https://YOUR_GITHUB_USERNAME.github.io"
+baseurl: "/goblin-node-legal"
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
